@@ -1,0 +1,22 @@
+# Arquivos sensíveis
+.env
+.DS_Store
+# Arquivos de dados gerados
+noticias_enviadas.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+uv.lock
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
